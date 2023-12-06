@@ -6,3 +6,5 @@ image_yscale = 2;
 Player_state =0;
 //Amount of time player moves after collision with ghost
 Player_move_timer = 0;
+
+Human_ghost_coll = 0;

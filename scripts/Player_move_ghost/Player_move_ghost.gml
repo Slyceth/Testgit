@@ -8,8 +8,8 @@ if (keyboard_check(vk_shift)= true ){var xSpeed = 4 var ySpeed = 4}
 else {xSpeed = 1.5 ySpeed = 1.5}
 
 //checks for movement and sets variables to movement
-var xMove = keyboard_check(ord("D")) - keyboard_check(ord("A"));
-var yMove = keyboard_check(ord("S")) - keyboard_check(ord("W"));
+ xMove = keyboard_check(ord("D")) - keyboard_check(ord("A"));
+ yMove = keyboard_check(ord("S")) - keyboard_check(ord("W"));
 
 //animations	
 if (xMove!=0 || yMove!=0){

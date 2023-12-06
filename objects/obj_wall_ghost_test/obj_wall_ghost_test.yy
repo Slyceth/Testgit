@@ -6,10 +6,13 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "collisions",
+    "path": "folders/Objects/collisions.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "collision_ghosts",
+    "path": "objects/collision_ghosts/collision_ghosts.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

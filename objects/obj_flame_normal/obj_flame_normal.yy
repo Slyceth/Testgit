@@ -2,14 +2,20 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_flame_normal",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Decorations",
+    "path": "folders/Objects/Decorations.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "collision_interactables",
+    "path": "objects/collision_interactables/collision_interactables.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -30,5 +36,8 @@
     "path": "sprites/Flame_normal/Flame_normal.yy",
   },
   "spriteMaskId": null,
+  "tags": [
+    "Interactable",
+  ],
   "visible": true,
 }
