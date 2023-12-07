@@ -83,6 +83,7 @@
     {"id":{"name":"spr_anti_ghost_zone","path":"sprites/spr_anti_ghost_zone/spr_anti_ghost_zone.yy",},},
     {"id":{"name":"spr_spear_right","path":"sprites/spr_spear_right/spr_spear_right.yy",},},
     {"id":{"name":"obj_keyboard_wasd","path":"objects/obj_keyboard_wasd/obj_keyboard_wasd.yy",},},
+    {"id":{"name":"spr_button_pressed","path":"sprites/spr_button_pressed/spr_button_pressed.yy",},},
     {"id":{"name":"obj_anti_ghost_zone","path":"objects/obj_anti_ghost_zone/obj_anti_ghost_zone.yy",},},
     {"id":{"name":"Human_Player_walk","path":"sprites/Human_Player_walk/Human_Player_walk.yy",},},
     {"id":{"name":"PLayers_colide_hitbox","path":"objects/PLayers_colide_hitbox/PLayers_colide_hitbox.yy",},},

@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "project prototype 2",
-    "path": "project prototype 2.yyp",
+    "name": "obstacles and hurts",
+    "path": "folders/Sprites/obstacles and hurts.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
