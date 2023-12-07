@@ -1,15 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object22",
+  "name": "obj_button",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_Human_Player","path":"objects/obj_Human_Player/obj_Human_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "project prototype 2",
-    "path": "project prototype 2.yyp",
+    "name": "Obstacles and enemies",
+    "path": "folders/Objects/Obstacles and enemies.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -30,8 +32,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "Sprite28",
-    "path": "sprites/Sprite28/Sprite28.yy",
+    "name": "spr_button_unpressed",
+    "path": "sprites/spr_button_unpressed/spr_button_unpressed.yy",
   },
   "spriteMaskId": null,
   "visible": true,

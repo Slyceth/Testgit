@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite28",
+  "name": "spr_button_unpressed",
   "bbox_bottom": 44,
   "bbox_left": 16,
   "bbox_right": 46,
@@ -25,14 +25,14 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "project prototype 2",
-    "path": "project prototype 2.yyp",
+    "name": "obstacles and hurts",
+    "path": "folders/Sprites/obstacles and hurts.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite28",
+    "name": "spr_button_unpressed",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d036ffdc-f97f-41b3-b84a-4a63eac6b944","path":"sprites/Sprite28/Sprite28.yy",},},},"Disabled":false,"id":"bb546e37-9865-4fbc-a47d-36a17a6268fa","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d036ffdc-f97f-41b3-b84a-4a63eac6b944","path":"sprites/spr_button_unpressed/spr_button_unpressed.yy",},},},"Disabled":false,"id":"bb546e37-9865-4fbc-a47d-36a17a6268fa","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
