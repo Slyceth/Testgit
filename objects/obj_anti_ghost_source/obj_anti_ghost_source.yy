@@ -1,18 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_antighostzone",
-  "eventList": [],
+  "name": "obj_anti_ghost_source",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":89,"eventType":9,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Obstacles and enemies",
     "path": "folders/Objects/Obstacles and enemies.yy",
   },
-  "parentObjectId": {
-    "name": "collision_ghosts",
-    "path": "objects/collision_ghosts/collision_ghosts.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_antighostzone",
-    "path": "sprites/spr_antighostzone/spr_antighostzone.yy",
+    "name": "spr_anti_ghost_source",
+    "path": "sprites/spr_anti_ghost_source/spr_anti_ghost_source.yy",
   },
   "spriteMaskId": null,
   "visible": true,
