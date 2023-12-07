@@ -55,6 +55,7 @@
   },
   "resources": [
     {"id":{"name":"obj_interact_button","path":"objects/obj_interact_button/obj_interact_button.yy",},},
+    {"id":{"name":"Object22","path":"objects/Object22/Object22.yy",},},
     {"id":{"name":"Endless_dungeib_beta","path":"sounds/Endless_dungeib_beta/Endless_dungeib_beta.yy",},},
     {"id":{"name":"GM_Fire_spr_Fire","path":"sprites/GM_Fire_spr_Fire/GM_Fire_spr_Fire.yy",},},
     {"id":{"name":"Player_states_ghost","path":"scripts/Player_states_ghost/Player_states_ghost.yy",},},
@@ -79,6 +80,7 @@
     {"id":{"name":"Ghost_playe","path":"sprites/Ghost_playe/Ghost_playe.yy",},},
     {"id":{"name":"obj_antighostsource","path":"objects/obj_antighostsource/obj_antighostsource.yy",},},
     {"id":{"name":"spr_particle_fire","path":"sprites/spr_particle_fire/spr_particle_fire.yy",},},
+    {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},},
     {"id":{"name":"spr_spear_right","path":"sprites/spr_spear_right/spr_spear_right.yy",},},
     {"id":{"name":"obj_antighostzone","path":"objects/obj_antighostzone/obj_antighostzone.yy",},},
     {"id":{"name":"obj_keyboard_wasd","path":"objects/obj_keyboard_wasd/obj_keyboard_wasd.yy",},},

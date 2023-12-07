@@ -35,6 +35,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Object22","order":17,"path":"objects/Object22/Object22.yy",},
     {"name":"GM_Fire_spr_Fire","order":1,"path":"sprites/GM_Fire_spr_Fire/GM_Fire_spr_Fire.yy",},
     {"name":"Player_states_ghost","order":2,"path":"scripts/Player_states_ghost/Player_states_ghost.yy",},
     {"name":"Flame_normal","order":2,"path":"sprites/Flame_normal/Flame_normal.yy",},
@@ -49,6 +50,7 @@
     {"name":"collision_human","order":3,"path":"objects/collision_human/collision_human.yy",},
     {"name":"obj_antighostsource","order":3,"path":"objects/obj_antighostsource/obj_antighostsource.yy",},
     {"name":"spr_particle_fire","order":3,"path":"sprites/spr_particle_fire/spr_particle_fire.yy",},
+    {"name":"Sprite28","order":16,"path":"sprites/Sprite28/Sprite28.yy",},
     {"name":"spr_spear_right","order":2,"path":"sprites/spr_spear_right/spr_spear_right.yy",},
     {"name":"obj_antighostzone","order":2,"path":"objects/obj_antighostzone/obj_antighostzone.yy",},
     {"name":"obj_keyboard_wasd","order":1,"path":"objects/obj_keyboard_wasd/obj_keyboard_wasd.yy",},
