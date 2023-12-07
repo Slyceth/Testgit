@@ -62,6 +62,7 @@
     {"name":"Players_collision_box_sprite","order":6,"path":"sprites/Players_collision_box_sprite/Players_collision_box_sprite.yy",},
     {"name":"Human_Player","order":3,"path":"sprites/Human_Player/Human_Player.yy",},
     {"name":"values_and_stuff","order":1,"path":"objects/values_and_stuff/values_and_stuff.yy",},
+    {"name":"Endless_dungeib_beta","order":1,"path":"sounds/Endless_dungeib_beta/Endless_dungeib_beta.yy",},
     {"name":"obj_transition_control","order":2,"path":"objects/obj_transition_control/obj_transition_control.yy",},
     {"name":"Ghost_grid_hitbox","order":8,"path":"sprites/Ghost_grid_hitbox/Ghost_grid_hitbox.yy",},
     {"name":"Obj_scare_hitbox","order":1,"path":"objects/Obj_scare_hitbox/Obj_scare_hitbox.yy",},
