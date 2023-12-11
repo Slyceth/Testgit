@@ -42,9 +42,9 @@
     {"name":"Ghost_player_scare","order":2,"path":"sprites/Ghost_player_scare/Ghost_player_scare.yy",},
     {"name":"ParticleSystem2","order":1,"path":"particles/ParticleSystem2/ParticleSystem2.yy",},
     {"name":"Human_Player_fall","order":10,"path":"sprites/Human_Player_fall/Human_Player_fall.yy",},
-    {"name":"Room_test_background","order":1,"path":"sprites/Room_test_background/Room_test_background.yy",},
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"obj_spear_spawner","order":1,"path":"objects/obj_spear_spawner/obj_spear_spawner.yy",},
+    {"name":"Room_collin_debug","order":1,"path":"rooms/Room_collin_debug/Room_collin_debug.yy",},
     {"name":"spr_main_tileset","order":3,"path":"sprites/spr_main_tileset/spr_main_tileset.yy",},
     {"name":"Player_move_ghost","order":1,"path":"scripts/Player_move_ghost/Player_move_ghost.yy",},
     {"name":"Cubor_the_evil","order":1,"path":"sprites/Cubor_the_evil/Cubor_the_evil.yy",},
@@ -77,5 +77,6 @@
     {"name":"spr_ghost_enemy_scare","order":2,"path":"sprites/spr_ghost_enemy_scare/spr_ghost_enemy_scare.yy",},
     {"name":"obj_Human_Player","order":2,"path":"objects/obj_Human_Player/obj_Human_Player.yy",},
     {"name":"obj_situa_collision","order":3,"path":"objects/obj_situa_collision/obj_situa_collision.yy",},
+    {"name":"Room_debug_test1","order":2,"path":"rooms/Room_debug_test1/Room_debug_test1.yy",},
   ],
 }

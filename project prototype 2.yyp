@@ -70,6 +70,7 @@
     {"id":{"name":"obj_spear_spawner","path":"objects/obj_spear_spawner/obj_spear_spawner.yy",},},
     {"id":{"name":"Ghost_scream","path":"sounds/Ghost_scream/Ghost_scream.yy",},},
     {"id":{"name":"GM_Electricity_spr_Electricity1","path":"sprites/GM_Electricity_spr_Electricity1/GM_Electricity_spr_Electricity1.yy",},},
+    {"id":{"name":"Room_collin_debug","path":"rooms/Room_collin_debug/Room_collin_debug.yy",},},
     {"id":{"name":"spr_main_tileset","path":"sprites/spr_main_tileset/spr_main_tileset.yy",},},
     {"id":{"name":"Player_move_ghost","path":"scripts/Player_move_ghost/Player_move_ghost.yy",},},
     {"id":{"name":"spr_interact_button_EEEEE","path":"sprites/spr_interact_button_EEEEE/spr_interact_button_EEEEE.yy",},},
@@ -122,6 +123,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room_debug_test1","path":"rooms/Room_debug_test1/Room_debug_test1.yy",},},
+    {"roomId":{"name":"Room_collin_debug","path":"rooms/Room_collin_debug/Room_collin_debug.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
