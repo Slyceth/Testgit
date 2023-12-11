@@ -49,6 +49,7 @@
   "isEcma": false,
   "LibraryEmitters": [
     {"name":"FIre","path":"particlelib/FIre/FIre.yy",},
+    {"name":"FIre","path":"particlelib/FIre/FIre.yy",},
   ],
   "MetaData": {
     "IDEVersion": "2023.8.2.108",

@@ -8,3 +8,5 @@ Player_state =0;
 Player_move_timer = 0;
 
 Human_ghost_coll = 0;
+//makes certain speed only 0 if value 0
+is_human_moving =0;

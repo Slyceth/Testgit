@@ -68,6 +68,7 @@ else
 {
 if (Human_ghost_coll = 1){
 Human_ghost_coll = 0
+is_human_moving =0
 }
 
 }
@@ -85,13 +86,13 @@ alarm[0]=50
 //state = 2 is run
 switch (Human_ghost_coll) {
        case 0:
-    move_towards_point(obj_Ghost_Player.x,obj_Ghost_Player.y,0)
+
 Player_state =0
 Player_move_timer =5    
         break;	
      
 	 case 1:
-    move_towards_point(obj_Ghost_Player.x,obj_Ghost_Player.y,0)
+   
 Player_state =0
 Player_move_timer =5    
         break;	
@@ -108,4 +109,11 @@ Player_move_timer =5
     default:
         // code here
         break;
+}
+
+//sets speed to 0 only when...
+if (is_human_moving ==0)
+{
+speed =0
+is_human_moving =1
 }
