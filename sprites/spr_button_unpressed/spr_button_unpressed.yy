@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_button_unpressed",
-  "bbox_bottom": 45,
+  "bbox_bottom": 44,
   "bbox_left": 16,
   "bbox_right": 46,
-  "bbox_top": 15,
+  "bbox_top": 14,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"11097d72-082e-493e-9437-abd8ef89e180",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d036ffdc-f97f-41b3-b84a-4a63eac6b944",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"41f1edfa-53a8-42ef-b053-c0d514f5d1c3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"24c5be76-3967-4d38-9403-8ff97cbed486","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"11097d72-082e-493e-9437-abd8ef89e180","path":"sprites/spr_button_unpressed/spr_button_unpressed.yy",},},},"Disabled":false,"id":"c10caa6e-6c6a-4e69-a33c-9f04bb8b8651","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d036ffdc-f97f-41b3-b84a-4a63eac6b944","path":"sprites/spr_button_unpressed/spr_button_unpressed.yy",},},},"Disabled":false,"id":"bb546e37-9865-4fbc-a47d-36a17a6268fa","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

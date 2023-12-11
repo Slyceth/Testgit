@@ -5,7 +5,7 @@
   "bbox_bottom": 56,
   "bbox_left": 4,
   "bbox_right": 58,
-  "bbox_top": 2,
+  "bbox_top": 30,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,7 +13,7 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"846d96b5-5bb1-4cda-bbf2-7f294aa21daf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ec585fc4-6bbe-448f-99e7-0e345fa11852",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"846d96b5-5bb1-4cda-bbf2-7f294aa21daf","path":"sprites/spr_ghost_enemy_collision/spr_ghost_enemy_collision.yy",},},},"Disabled":false,"id":"546010d8-a56f-4200-a34a-f3b3e13f7705","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ec585fc4-6bbe-448f-99e7-0e345fa11852","path":"sprites/spr_ghost_enemy_collision/spr_ghost_enemy_collision.yy",},},},"Disabled":false,"id":"3594ce0f-4c53-4d14-b26e-7511546e4cc7","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

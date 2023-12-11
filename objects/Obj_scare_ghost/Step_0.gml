@@ -13,16 +13,10 @@ switch (state) {
 }
 
 //creates hitbox
-if (place_meeting(x,y,Obj_scare_ghost))
+if (collision_rectangle(x-32,y-32,x+32,y+32,Obj_scare_hitbox,false,false))
 {
 //sets animation
-if (Obj_scare_hitbox.state =1) {
-state =1
-}
-else 
-{
-state =0	
-}
+
 }
 else if (hibox ==0)
 {
@@ -30,10 +24,6 @@ else if (hibox ==0)
 	instance_create_layer(x,y,"Instances",Obj_scare_hitbox)
 hibox =1
 }
-//ddebug
-if(keyboard_check(ord("1"))){
-state = 0
-}
-if(keyboard_check(ord("2"))){
-state = 1
-}
+
+if (distance_to_object(obj_Human_Player) <=5){state = 1}
+else {state = 0}

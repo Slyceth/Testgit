@@ -17,6 +17,3 @@ button_press = false
 
 
 
-
-
-
