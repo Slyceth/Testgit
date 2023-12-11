@@ -36,12 +36,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_lever_pressed","order":8,"path":"sprites/spr_lever_pressed/spr_lever_pressed.yy",},
     {"name":"GM_Fire_spr_Fire","order":1,"path":"sprites/GM_Fire_spr_Fire/GM_Fire_spr_Fire.yy",},
     {"name":"Player_states_ghost","order":2,"path":"scripts/Player_states_ghost/Player_states_ghost.yy",},
     {"name":"Flame_normal","order":2,"path":"sprites/Flame_normal/Flame_normal.yy",},
     {"name":"Ghost_player_scare","order":2,"path":"sprites/Ghost_player_scare/Ghost_player_scare.yy",},
     {"name":"ParticleSystem2","order":1,"path":"particles/ParticleSystem2/ParticleSystem2.yy",},
-    {"name":"Human_Player_fall","order":10,"path":"sprites/Human_Player_fall/Human_Player_fall.yy",},
     {"name":"Room_test_background","order":1,"path":"sprites/Room_test_background/Room_test_background.yy",},
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"obj_spear_spawner","order":1,"path":"objects/obj_spear_spawner/obj_spear_spawner.yy",},
@@ -77,5 +77,6 @@
     {"name":"spr_ghost_enemy_scare","order":2,"path":"sprites/spr_ghost_enemy_scare/spr_ghost_enemy_scare.yy",},
     {"name":"obj_Human_Player","order":2,"path":"objects/obj_Human_Player/obj_Human_Player.yy",},
     {"name":"obj_situa_collision","order":3,"path":"objects/obj_situa_collision/obj_situa_collision.yy",},
+    {"name":"spr_lever_unpressed","order":7,"path":"sprites/spr_lever_unpressed/spr_lever_unpressed.yy",},
   ],
 }

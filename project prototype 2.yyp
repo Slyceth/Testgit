@@ -56,6 +56,7 @@
     "IDEVersion": "2023.11.0.121",
   },
   "resources": [
+    {"id":{"name":"spr_lever_pressed","path":"sprites/spr_lever_pressed/spr_lever_pressed.yy",},},
     {"id":{"name":"obj_interact_button","path":"objects/obj_interact_button/obj_interact_button.yy",},},
     {"id":{"name":"Endless_dungeib_beta_2","path":"sounds/Endless_dungeib_beta_2/Endless_dungeib_beta_2.yy",},},
     {"id":{"name":"GM_Fire_spr_Fire","path":"sprites/GM_Fire_spr_Fire/GM_Fire_spr_Fire.yy",},},
@@ -64,7 +65,6 @@
     {"id":{"name":"Human_interact_hitbox","path":"objects/Human_interact_hitbox/Human_interact_hitbox.yy",},},
     {"id":{"name":"Ghost_player_scare","path":"sprites/Ghost_player_scare/Ghost_player_scare.yy",},},
     {"id":{"name":"ParticleSystem2","path":"particles/ParticleSystem2/ParticleSystem2.yy",},},
-    {"id":{"name":"Human_Player_fall","path":"sprites/Human_Player_fall/Human_Player_fall.yy",},},
     {"id":{"name":"Room_test_background","path":"sprites/Room_test_background/Room_test_background.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"obj_spear_spawner","path":"objects/obj_spear_spawner/obj_spear_spawner.yy",},},
@@ -118,6 +118,7 @@
     {"id":{"name":"spr_spear_launcher","path":"sprites/spr_spear_launcher/spr_spear_launcher.yy",},},
     {"id":{"name":"Game_over","path":"scripts/Game_over/Game_over.yy",},},
     {"id":{"name":"Draw_tests","path":"objects/Draw_tests/Draw_tests.yy",},},
+    {"id":{"name":"spr_lever_unpressed","path":"sprites/spr_lever_unpressed/spr_lever_unpressed.yy",},},
     {"id":{"name":"Room_debug_test1","path":"rooms/Room_debug_test1/Room_debug_test1.yy",},},
   ],
   "RoomOrderNodes": [
