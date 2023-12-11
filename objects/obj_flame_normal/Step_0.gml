@@ -11,4 +11,10 @@ depth=15
 
 
 
-
+if (active ==1)
+{
+image_alpha =1}
+else if (active ==-1)
+{
+image_alpha =0
+}
