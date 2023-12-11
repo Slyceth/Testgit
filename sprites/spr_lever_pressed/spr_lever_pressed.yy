@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_button_pressed",
-  "bbox_bottom": 29,
+  "name": "spr_lever_pressed",
+  "bbox_bottom": 23,
   "bbox_left": 2,
-  "bbox_right": 26,
-  "bbox_top": 5,
+  "bbox_right": 29,
+  "bbox_top": 11,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ef1c3b76-2e59-40e3-835a-939685099853",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fcc482a0-19b3-4ac4-a8b3-fe54f1efbb84",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 32,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"15c3a81a-c062-4c42-8f15-a1babdd9ae3f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"920ca595-17b9-49da-8db8-2b9a56716c21","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_button_pressed",
+    "name": "spr_lever_pressed",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ef1c3b76-2e59-40e3-835a-939685099853","path":"sprites/spr_button_pressed/spr_button_pressed.yy",},},},"Disabled":false,"id":"77a92c2c-3255-4841-83cd-79e32dacb24b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fcc482a0-19b3-4ac4-a8b3-fe54f1efbb84","path":"sprites/spr_lever_pressed/spr_lever_pressed.yy",},},},"Disabled":false,"id":"53e3e66a-d832-4b66-ad1f-6c3f85761691","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
