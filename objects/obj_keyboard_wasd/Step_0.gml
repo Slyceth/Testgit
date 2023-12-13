@@ -1,6 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+//depth
+depth =-y
+
 //x/ypos
 x = obj_Ghost_Player.x
 y= obj_Ghost_Player.y-85

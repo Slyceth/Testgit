@@ -27,7 +27,11 @@ hibox =1
 
 if (distance_to_object(obj_Human_Player) <=5){state = 1}
 else {state = 0}
-//direction
+//direction (Only change direction between 1 and 4:
+//1 = down
+//2=left
+//3=up
+//4 = right)
 switch (direction) {
     case 1:
         image_xscale =2
@@ -47,18 +51,4 @@ switch (direction) {
 }
 
 
-//ddebug
-if(keyboard_check(ord("1"))){
-direction = 1
-  image_angle=	0
-}
-if(keyboard_check(ord("2"))){
-direction =2
-}
-if(keyboard_check(ord("3"))){
-direction =3
-}
 
-if(keyboard_check(ord("4"))){
-direction =4
-}
