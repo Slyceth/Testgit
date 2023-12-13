@@ -25,8 +25,8 @@ else if (hibox ==0)
 hibox =1
 }
 
-if (distance_to_object(obj_Human_Player) <=5){state = 1}
-else {state = 0}
+//if (distance_to_object(obj_Human_Player) <=5){state = 1}
+//else {state = 0}
 //direction (Only change direction between 1 and 4:
 //1 = down
 //2=left

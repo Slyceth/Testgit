@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_main_tileset",
-  "bbox_bottom": 895,
+  "bbox_bottom": 959,
   "bbox_left": 0,
-  "bbox_right": 511,
+  "bbox_right": 1023,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"18da82f7-7855-4175-aab4-c1402b0663c5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"099c6001-7e33-49ce-9577-7ede49eaf17a",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 1064,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5075ec3b-8a48-4d53-a07d-c946a4d0af33","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1382782c-75aa-4d94-887e-883030ea8e8b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"18da82f7-7855-4175-aab4-c1402b0663c5","path":"sprites/spr_main_tileset/spr_main_tileset.yy",},},},"Disabled":false,"id":"0b84dbb0-6dfd-4b71-acf0-793f01d8bc87","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"099c6001-7e33-49ce-9577-7ede49eaf17a","path":"sprites/spr_main_tileset/spr_main_tileset.yy",},},},"Disabled":false,"id":"87cebb09-11bd-48fc-9a12-2c4330ccb23e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
