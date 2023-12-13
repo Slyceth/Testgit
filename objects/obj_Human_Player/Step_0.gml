@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
+//when not ded
 
+if (Player_state !=99){
 //PLayer animations
 if (Player_state = 0){
 	sprite_index = Human_Player};
@@ -148,5 +150,13 @@ if (Player_move_timer ==1) {
 	Player_state =2	
 	}
 
+}}
+//when ded
+else{
+	speed =0
+	image_alpha =0
+	is_human_moving =1
+	player_runninng_direc =0
+	Player_move_timer =0
 }
 
