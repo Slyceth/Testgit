@@ -4,3 +4,4 @@ state=0
 xmax= x+6
 xmin= x-6
 shake_state =0
+//

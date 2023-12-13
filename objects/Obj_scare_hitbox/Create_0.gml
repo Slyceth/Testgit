@@ -5,3 +5,4 @@ state=0
 if (place_meeting(x,y,Obj_scare_ghost)){
 box_direc= Obj_scare_ghost.direction
 }
+//
