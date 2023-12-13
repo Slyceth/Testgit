@@ -16,6 +16,7 @@
     {"name":"images","order":7,"path":"folders/Objects/Particle Systems/images.yy",},
     {"name":"Particles","order":8,"path":"folders/Objects/Particle Systems/Particles.yy",},
     {"name":"Players","order":1,"path":"folders/Objects/Players.yy",},
+    {"name":"ded","order":4,"path":"folders/Objects/Players/ded.yy",},
     {"name":"UI stuff","order":3,"path":"folders/Objects/UI stuff.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
@@ -33,7 +34,6 @@
     {"name":"world (tiles + collisions","order":2,"path":"folders/Sprites/world (tiles + collisions.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"ded","order":4,"path":"folders/Objects/Players/ded.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_lever_pressed","order":8,"path":"sprites/spr_lever_pressed/spr_lever_pressed.yy",},
