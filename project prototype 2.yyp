@@ -121,6 +121,7 @@
     {"id":{"name":"Cubo_the_great","path":"sprites/Cubo_the_great/Cubo_the_great.yy",},},
     {"id":{"name":"obj_anti_ghost_source","path":"objects/obj_anti_ghost_source/obj_anti_ghost_source.yy",},},
     {"id":{"name":"obj_transition_control","path":"objects/obj_transition_control/obj_transition_control.yy",},},
+    {"id":{"name":"plauer_fall","path":"sounds/plauer_fall/plauer_fall.yy",},},
     {"id":{"name":"Ghost_grid_hitbox","path":"sprites/Ghost_grid_hitbox/Ghost_grid_hitbox.yy",},},
     {"id":{"name":"Ghost_initeract_hitbox","path":"objects/Ghost_initeract_hitbox/Ghost_initeract_hitbox.yy",},},
     {"id":{"name":"Ghost_playe_walk","path":"sprites/Ghost_playe_walk/Ghost_playe_walk.yy",},},

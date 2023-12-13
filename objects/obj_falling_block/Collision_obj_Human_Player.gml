@@ -19,6 +19,7 @@ if (obj_Human_Player.Player_state !=99){
 obj_Human_Player.Player_state = 99
 //makes player fall
 instance_create_layer(obj_Human_Player.x,obj_Human_Player.y,"Players",obj_human_fall)
+audio_play_sound(plauer_fall,1,false)
 obj_Human_Player.image_alpha = 0
 obj_Human_Player.speed =0
 

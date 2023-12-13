@@ -83,6 +83,7 @@
     {"name":"values_and_stuff","order":1,"path":"objects/values_and_stuff/values_and_stuff.yy",},
     {"name":"obj_anti_ghost_source","order":2,"path":"objects/obj_anti_ghost_source/obj_anti_ghost_source.yy",},
     {"name":"obj_transition_control","order":2,"path":"objects/obj_transition_control/obj_transition_control.yy",},
+    {"name":"plauer_fall","order":2,"path":"sounds/plauer_fall/plauer_fall.yy",},
     {"name":"Ghost_grid_hitbox","order":8,"path":"sprites/Ghost_grid_hitbox/Ghost_grid_hitbox.yy",},
     {"name":"Ghost_playe_walk","order":1,"path":"sprites/Ghost_playe_walk/Ghost_playe_walk.yy",},
     {"name":"spr_ghost_enemy_normal","order":1,"path":"sprites/spr_ghost_enemy_normal/spr_ghost_enemy_normal.yy",},
