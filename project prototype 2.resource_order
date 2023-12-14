@@ -32,9 +32,9 @@
     {"name":"scare enemy","order":9,"path":"folders/Sprites/obstacles and hurts/scare enemy.yy",},
     {"name":"UI stuff","order":1,"path":"folders/Sprites/UI stuff.yy",},
     {"name":"world (tiles + collisions","order":2,"path":"folders/Sprites/world (tiles + collisions.yy",},
+    {"name":"Tiles","order":4,"path":"folders/Sprites/world (tiles + collisions/Tiles.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Tiles","order":4,"path":"folders/Sprites/world (tiles + collisions/Tiles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_lever_pressed","order":8,"path":"sprites/spr_lever_pressed/spr_lever_pressed.yy",},
