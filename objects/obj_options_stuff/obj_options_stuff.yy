@@ -1,17 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Ghost_initeract_hitbox",
+  "name": "obj_options_stuff",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":96,"eventType":5,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Players",
-    "path": "folders/Objects/Players.yy",
+    "name": "Global_objects",
+    "path": "folders/Objects/Global_objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -30,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_interact_human",
-    "path": "sprites/spr_interact_human/spr_interact_human.yy",
+    "name": "GM_Electricity_spr_Electricity1",
+    "path": "sprites/GM_Electricity_spr_Electricity1/GM_Electricity_spr_Electricity1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
