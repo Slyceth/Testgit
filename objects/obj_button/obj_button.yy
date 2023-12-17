@@ -11,7 +11,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Obstacles and enemies",
-    "path": "folders/Objects/Obstacles and enemies.yy",
+    "path": "folders/Objects/Global_objects/Obstacles and enemies.yy",
   },
   "parentObjectId": null,
   "persistent": false,

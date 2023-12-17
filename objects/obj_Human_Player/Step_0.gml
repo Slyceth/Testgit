@@ -80,19 +80,24 @@ Player_state =0}
         break;	
      
 	 case 1:
-   
+
+
+
 if (player_runninng_direc ==0){
 Player_state =0}
-//Player_move_timer =5    
+//Player_move_timer =5  
+
         break;	
    
    case 2:
     //moves away from player
-	move_towards_point(obj_Ghost_Player.x,obj_Ghost_Player.y,-4)
+direction=point_direction(obj_Ghost_Player.x,obj_Ghost_Player.y,x,y)
+		rememberspeedh=lengthdir_x(4,direction)
+		rememberspeedv=lengthdir_y(4,direction)
+
 Player_state =1
 //Player_move_timer =5    
         break;
-	
 
 		
     default:
@@ -150,3 +155,20 @@ if (Player_move_timer ==1) {
 
 }
 
+
+hits=move_and_collide(rememberspeedv,rememberspeedh,obj_wall_test)
+
+if array_length(hits) > 0{
+	for(var i=0;i<array_length(hits);++i){
+		var hit = hits[i];
+		if (x==clamp(x,hit.bbox_left,hit.bbox_right)){
+			//the x is inside the bounding box of the wall
+			rememberspeedv *= -1;
+			x = xprevious;
+		} else {
+			rememberspeedh *= -1;
+			y = yprevious;
+		}
+		direction = point_direction(0,0,rememberspeedh,rememberspeedv);
+	}
+}
