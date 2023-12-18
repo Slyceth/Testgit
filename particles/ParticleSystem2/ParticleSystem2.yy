@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "Particles",
-    "path": "folders/Particle Systems/Particles.yy",
+    "path": "folders/Objects/Particle Systems/Particles.yy",
   },
   "showBackdrop": true,
   "showBackdropImage": false,

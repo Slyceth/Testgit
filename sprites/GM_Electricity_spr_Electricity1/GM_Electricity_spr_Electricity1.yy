@@ -26,7 +26,7 @@
   "origin": 4,
   "parent": {
     "name": "images",
-    "path": "folders/Particle Systems/images.yy",
+    "path": "folders/Objects/Particle Systems/images.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -27,5 +27,5 @@ audio_play_sound(Ghost_scream, 1,false)
 }
 }
 //depth:
-depth = y;
+depth = -y;
 

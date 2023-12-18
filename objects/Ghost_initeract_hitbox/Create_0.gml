@@ -5,5 +5,5 @@ image_yscale=2.5
 image_alpha =-1.5
 
 prompt_visible =0
-
+room_go =0
 

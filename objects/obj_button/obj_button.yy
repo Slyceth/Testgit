@@ -1,18 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_antighostzone",
-  "eventList": [],
+  "name": "obj_button",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_Human_Player","path":"objects/obj_Human_Player/obj_Human_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Obstacles and enemies",
     "path": "folders/Objects/Obstacles and enemies.yy",
   },
-  "parentObjectId": {
-    "name": "collision_ghosts",
-    "path": "objects/collision_ghosts/collision_ghosts.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_antighostzone",
-    "path": "sprites/spr_antighostzone/spr_antighostzone.yy",
+    "name": "spr_button_unpressed",
+    "path": "sprites/spr_button_unpressed/spr_button_unpressed.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -162,3 +162,6 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+options/ios/options_ios.yy
+options/mac/options_mac.yy
+options/tvos/options_tvos.yy

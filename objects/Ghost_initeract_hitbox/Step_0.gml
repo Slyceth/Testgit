@@ -11,3 +11,6 @@ else
 {
 prompt_visible =0
 }
+//sets value to go to a room
+
+
