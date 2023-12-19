@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_anti_ghost_source",
-    "path": "sprites/spr_anti_ghost_source/spr_anti_ghost_source.yy",
+    "name": "spr_button_unpressed",
+    "path": "sprites/spr_button_unpressed/spr_button_unpressed.yy",
   },
   "spriteMaskId": null,
   "visible": true,

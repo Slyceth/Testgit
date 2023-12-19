@@ -54,7 +54,7 @@
     {"name":"FIre","path":"particlelib/FIre/FIre.yy",},
   ],
   "MetaData": {
-    "IDEVersion": "2023.11.0.121",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"spr_lever_pressed","path":"sprites/spr_lever_pressed/spr_lever_pressed.yy",},},

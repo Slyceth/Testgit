@@ -1,6 +1,6 @@
 image_xscale = 1.6
 image_yscale =2
-image_alpha =0
+image_alpha =30
 
 
 if (place_meeting(x,y,obj_Human_Player)){
