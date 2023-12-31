@@ -15,3 +15,5 @@ player_runninng_direc =0;
 direction=-90
 rememberspeedv=4
 rememberspeedh=4
+randomize();
+hspeed = choose(1, -1);

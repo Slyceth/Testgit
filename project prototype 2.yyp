@@ -19,11 +19,11 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"collisions","folderPath":"folders/Objects/collisions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Decorations","folderPath":"folders/Objects/Decorations.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Global_objects","folderPath":"folders/Objects/Global_objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obstacles and enemies","folderPath":"folders/Objects/Global_objects/Obstacles and enemies.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"scare enemy","folderPath":"folders/Objects/Global_objects/Obstacles and enemies/scare enemy.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Misc","folderPath":"folders/Objects/Misc.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Debug stuff","folderPath":"folders/Objects/Misc/Debug stuff.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"unused stuff","folderPath":"folders/Objects/Misc/unused stuff.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Obstacles and enemies","folderPath":"folders/Objects/Global_objects/Obstacles and enemies.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"scare enemy","folderPath":"folders/Objects/Global_objects/Obstacles and enemies/scare enemy.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Objects/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"images","folderPath":"folders/Objects/Particle Systems/images.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particles","folderPath":"folders/Objects/Particle Systems/Particles.yy",},
@@ -54,7 +54,7 @@
     {"name":"FIre","path":"particlelib/FIre/FIre.yy",},
   ],
   "MetaData": {
-    "IDEVersion": "2023.11.0.121",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"spr_lever_pressed","path":"sprites/spr_lever_pressed/spr_lever_pressed.yy",},},
