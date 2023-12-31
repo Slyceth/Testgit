@@ -12,7 +12,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "scare enemy",
-    "path": "folders/Objects/Global_objects/Obstacles and enemies/scare enemy.yy",
+    "path": "folders/Objects/Obstacles and enemies/scare enemy.yy",
   },
   "parentObjectId": null,
   "persistent": false,
