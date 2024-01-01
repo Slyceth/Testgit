@@ -1,0 +1,33 @@
+{
+  "Version": 1,
+  "Favourites": [],
+  "RecentItems": [
+    {
+      "name": "Room_sly",
+      "path": "rooms/Room_sly/Room_sly.yy"
+    },
+    {
+      "name": "Room_collin_debug",
+      "path": "rooms/Room_collin_debug/Room_collin_debug.yy"
+    }
+  ],
+  "Filters": [],
+  "AssetColours": [],
+  "Palette": [
+    "#FF4040FF",
+    "#FFFF80FF",
+    "#FFFF8080",
+    "#FFFF8000",
+    "#FFFFFF80",
+    "#FF80FF00",
+    "#FF80C0FF",
+    "#FF0000FF",
+    "#FF00FFFF",
+    "#FF00FF00",
+    "#FFFFFF00",
+    "#FFFF0000",
+    "#FFFF00FF",
+    "#FF4040FF",
+    "#FFFF80FF"
+  ]
+}

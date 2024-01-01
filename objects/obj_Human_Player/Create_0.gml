@@ -11,9 +11,3 @@ Human_ghost_coll = 0;
 //makes certain speed only 0 if value 0
 is_human_moving =0;
 player_runninng_direc =0;
-
-direction=-90
-rememberspeedv=4
-rememberspeedh=4
-randomize();
-hspeed = choose(1, -1);
