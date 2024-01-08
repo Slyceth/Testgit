@@ -1,5 +1,7 @@
+//ssets player state to running
 Player_state =2
 Player_move_timer =1
+//Will set the run direction when colliding with the ghost hitbox
 if(Player_state =2)
 
 //tests and sets direction to other
@@ -28,6 +30,7 @@ switch (Obj_scare_hitbox.box_direc) {
 	
 	
 }
+//if not equeal to 2 it will stop the player from moving
 else if (is_human_moving ==0)
 {
 speed =0
