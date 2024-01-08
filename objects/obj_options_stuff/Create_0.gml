@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-//for menu
+//for menu current option
 current_option =1
 //if continue is locked or not
 new_game =0

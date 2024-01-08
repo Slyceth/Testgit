@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 //if not scaring then control + animations play
+#region movement setup and animations
+//If ghost is not screaming? Then move.
 if(obj_Human_Player.Human_ghost_coll !=2)
 {
 Player_states_ghost()
@@ -13,7 +15,8 @@ audio_stop_sound(Ghost_scream)
 sprite_index = Ghost_player_scare
 image_alpha = 1
 
-//sets direction when scare
+/*sets direction when scare,
+if human lower then x direction is left, if human greater then x direction right */
 if (obj_Human_Player.x<x){
 image_xscale =-2	
 }else
@@ -28,4 +31,4 @@ audio_play_sound(Ghost_scream, 1,false)
 }
 //depth:
 depth = -y;
-
+#endregion
