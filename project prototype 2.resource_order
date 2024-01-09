@@ -62,6 +62,7 @@
     {"name":"spr_continue_locked","order":8,"path":"sprites/spr_continue_locked/spr_continue_locked.yy",},
     {"name":"spr_main_tileset","order":3,"path":"sprites/spr_main_tileset/spr_main_tileset.yy",},
     {"name":"Player_move_ghost","order":1,"path":"scripts/Player_move_ghost/Player_move_ghost.yy",},
+    {"name":"spr_human_stacey","order":12,"path":"sprites/spr_human_stacey/spr_human_stacey.yy",},
     {"name":"Cubor_the_evil","order":1,"path":"sprites/Cubor_the_evil/Cubor_the_evil.yy",},
     {"name":"obj_button","order":4,"path":"objects/obj_button/obj_button.yy",},
     {"name":"Dungeon_Tileset","order":1,"path":"tilesets/Dungeon_Tileset/Dungeon_Tileset.yy",},
