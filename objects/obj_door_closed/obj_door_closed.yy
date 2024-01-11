@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_door_closed",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -32,8 +29,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "door_closed",
-    "path": "sprites/door_closed/door_closed.yy",
+    "name": "spr_door_closed",
+    "path": "sprites/spr_door_closed/spr_door_closed.yy",
   },
   "spriteMaskId": null,
   "visible": true,

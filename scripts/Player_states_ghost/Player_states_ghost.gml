@@ -6,7 +6,8 @@ Player_state = 0
 if (Player_state = 0){
 image_alpha = 0.75
 }
-if (Player_state = 1){
+
+if (Player_state = 2){
 image_alpha = 0.25
 }
 }
