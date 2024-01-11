@@ -72,11 +72,11 @@ is_human_moving =0
 
 }
 //if collision between hitbox and human and E is pressed? State is set to 2.
-if (Human_ghost_coll == 1 && keyboard_check_pressed(ord("E"))) {
+if (Human_ghost_coll == 1 && keyboard_check(ord("E"))) {
 // =2 means human moves and ghost does not.
 Human_ghost_coll =2
 //movement distance until alarm is hit then stops the human from moving
-alarm[0]=50
+
 }
 #endregion
 #region //Human run from enemy ghost
@@ -99,8 +99,9 @@ Player_state =0}
 //Player_move_timer =5    still no
         break;	
    
-   case 2:
+   case 3:
     //moves away from player (x and y to move to, speed is minus to move away from player).
+	//Find the human walk velocity here (-4)
 	move_towards_point(obj_Ghost_Player.x,obj_Ghost_Player.y,-4)
 Player_state =1
 //Player_move_timer =5    
@@ -122,6 +123,7 @@ is_human_moving =1
 //run
 //if (Player_state ==2){
 //moves player when running (direc = direction of player moving)
+	//Find the human run velocity here (dpending on player direction)
 switch (player_runninng_direc) {
     case 1:
         //down
@@ -172,4 +174,20 @@ else{
 	player_runninng_direc =0
 	Player_move_timer =0
 }
+//adds to power bar when collsion players,E is held,powerbar is lower then maximun and timer is false
+if(Human_ghost_coll ==2){if(keyboard_check(ord("E"))&& power_bar<power_bar_max && Can_add == false){
+//adds to powerbar
+power_bar += 1
+audio_play_sound(Button_select,1,false)
+alarm[2]=5
+Can_add =true
 
+}else if(keyboard_check(ord("E")) =false){
+//if let go then walk tiemer and move player
+alarm[0]=power_bar
+Human_ghost_coll =3
+}
+//ghost animation
+obj_Ghost_Player.sprite_index = Ghost_player_wait_scare
+
+}else if(Human_ghost_coll <2){power_bar =15 }

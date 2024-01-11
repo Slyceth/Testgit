@@ -3,7 +3,7 @@
 //if not scaring then control + animations play
 #region movement setup and animations
 //If ghost is not screaming? Then move.
-if(obj_Human_Player.Human_ghost_coll !=2)
+if(obj_Human_Player.Human_ghost_coll !=3)
 {
 Player_states_ghost()
 Player_move_ghost()	
