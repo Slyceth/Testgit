@@ -1,6 +1,6 @@
 image_xscale = 1.6
 image_yscale =2
-image_alpha =1
+//image_alpha =1
 #region state
 //sets the state of the hitbox and ghost when touching the human
 if (place_meeting(x,y,obj_Human_Player)){
@@ -48,4 +48,5 @@ box_direc=Obj_scare_ghost.direction
 
 }
 
-
+//animations stuff
+if(trans ==0){alarm[0]=random_range(10,30) trans =1}
