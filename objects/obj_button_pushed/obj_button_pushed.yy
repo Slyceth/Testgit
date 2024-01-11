@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_door_open",
+  "name": "obj_button_pushed",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_door_open",
-    "path": "sprites/spr_door_open/spr_door_open.yy",
+    "name": "spr_button_pressed",
+    "path": "sprites/spr_button_pressed/spr_button_pressed.yy",
   },
   "spriteMaskId": null,
   "visible": true,

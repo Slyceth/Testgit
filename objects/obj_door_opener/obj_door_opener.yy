@@ -1,8 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_door_open",
-  "eventList": [],
+  "name": "obj_door_opener",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_door_open",
-    "path": "sprites/spr_door_open/spr_door_open.yy",
+    "name": "spr_button_unpressed",
+    "path": "sprites/spr_button_unpressed/spr_button_unpressed.yy",
   },
   "spriteMaskId": null,
   "visible": true,
