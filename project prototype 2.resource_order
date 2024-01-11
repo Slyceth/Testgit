@@ -57,6 +57,7 @@
     {"name":"Human_Player_falling","order":11,"path":"sprites/Human_Player_falling/Human_Player_falling.yy",},
     {"name":"obj_continue_button","order":3,"path":"objects/obj_continue_button/obj_continue_button.yy",},
     {"name":"obj_door_opener","order":11,"path":"objects/obj_door_opener/obj_door_opener.yy",},
+    {"name":"Sprite66","order":8,"path":"sprites/Sprite66/Sprite66.yy",},
     {"name":"Room_test_background","order":1,"path":"sprites/Room_test_background/Room_test_background.yy",},
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"obj_menu_lock","order":8,"path":"objects/obj_menu_lock/obj_menu_lock.yy",},
