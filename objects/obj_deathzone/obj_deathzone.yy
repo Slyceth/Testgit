@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_anti_ghost_source",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":89,"eventType":9,"isDnD":false,},
-  ],
+  "name": "obj_deathzone",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -27,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_button_unpressed",
-    "path": "sprites/spr_button_unpressed/spr_button_unpressed.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
