@@ -11,3 +11,4 @@ next_room = asset_get_index(room_get_name)
 continue_locked=true
 //for play to go to level 
 current_level = asset_get_index(Room_debug_test1) 
+
