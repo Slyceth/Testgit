@@ -1,6 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 //if not scaring then control + animations play
+if(keyboard_check_pressed(vk_f4)&&!keyboard_check(vk_alt)&&!keyboard_check(vk_control)&&!keyboard_check(vk_shift)){
+	window_set_fullscreen(!window_get_fullscreen());
+	//display_set_gui_maximize();
+}
 #region movement setup and animations
 //If ghost is not screaming? Then move.
 if(obj_Human_Player.Human_ghost_coll !=3)
