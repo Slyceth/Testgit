@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+/*
 if (exiting = true)
 {
 //adds speed to value	
@@ -26,7 +26,7 @@ fx_set_parameter(filter, param_name, param_value);
 
 }
 
-
+*/
 
 
 

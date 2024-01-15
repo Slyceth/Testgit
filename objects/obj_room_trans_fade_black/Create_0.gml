@@ -1,12 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-//destroys layer
-//layer_destroy(temp_layer)
-
-
-
-
-
-
-
-
+image_xscale = room_width
+image_yscale = room_height
