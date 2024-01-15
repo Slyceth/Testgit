@@ -4,6 +4,7 @@
 //will create layer for fading
 if (active ==1){
 temp_layer = layer_create(-5555556,"temp layer")
+instance_create_layer(0,0,temp_layer,obj_room_trans_fade_black)
 active =2
 }
 //fade out room
@@ -38,5 +39,6 @@ if(active == 5 && trans_count >=1){
 	//void
 	if(active ==6){
 	room_goto(obj_level_end.next_level)
+	active =1
 	}
 	
