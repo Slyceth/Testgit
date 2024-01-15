@@ -36,3 +36,4 @@ else if (is_human_moving ==0)
 speed =0
 is_human_moving =1
 }
+

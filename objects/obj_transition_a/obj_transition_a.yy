@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "UI stuff",
-    "path": "folders/Objects/UI stuff.yy",
+    "name": "unused stuff",
+    "path": "folders/Objects/Misc/unused stuff.yy",
   },
   "parentObjectId": null,
   "persistent": false,

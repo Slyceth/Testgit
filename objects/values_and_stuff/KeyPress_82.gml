@@ -4,5 +4,3 @@ audio_stop_all()
 obj_keyboard_wasd.sprite_visible=0
 room_restart()
 
-
-
