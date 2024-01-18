@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "Shaders",
+    "path": "folders/Shaders.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
