@@ -150,11 +150,13 @@
     {"name":"spr_right","order":5,"path":"sprites/spr_right/spr_right.yy",},
     {"name":"spr_tilesheet_dungeon","order":8,"path":"sprites/spr_tilesheet_dungeon/spr_tilesheet_dungeon.yy",},
     {"name":"water","order":9,"path":"sprites/water/water.yy",},
+    {"name":"obj_ghost_fall","order":1,"path":"objects/obj_ghost_fall/obj_ghost_fall.yy",},
     {"name":"spr_falling_block_break","order":3,"path":"sprites/spr_falling_block_break/spr_falling_block_break.yy",},
     {"name":"spr_continue_unpressed","order":6,"path":"sprites/spr_continue_unpressed/spr_continue_unpressed.yy",},
     {"name":"menu_levelselect","order":6,"path":"rooms/menu_levelselect/menu_levelselect.yy",},
     {"name":"spr_lever_unpressed","order":7,"path":"sprites/spr_lever_unpressed/spr_lever_unpressed.yy",},
     {"name":"obj_button_select","order":1,"path":"objects/obj_button_select/obj_button_select.yy",},
+    {"name":"obj_ghost_reset","order":2,"path":"objects/obj_ghost_reset/obj_ghost_reset.yy",},
     {"name":"plauer_fall","order":2,"path":"sounds/plauer_fall/plauer_fall.yy",},
   ],
 }

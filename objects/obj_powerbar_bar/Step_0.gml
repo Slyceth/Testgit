@@ -13,6 +13,8 @@ if (obj_Human_Player.Human_ghost_coll>=1
 //max or not
 if(obj_Human_Player.power_bar ==obj_Human_Player.power_bar_max){
 image_blend = c_red
-sprite_index
+instance_create_layer(obj_Ghost_Player.x,obj_Ghost_Player.y,"Instances",obj_ghost_reset)
+obj_Ghost_Player.image_alpha = 0
+obj_Ghost_Player.speed =0
 }else{ image_blend = -1}
 depth=-555555
