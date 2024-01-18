@@ -3,7 +3,9 @@
 
 
 on = false
-
+obj_button_select.x = -50
+obj_button_select.y = -50
+//visible = false
 
 
 
