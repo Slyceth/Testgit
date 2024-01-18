@@ -13,5 +13,6 @@ if (obj_Human_Player.Human_ghost_coll>=1
 //max or not
 if(obj_Human_Player.power_bar ==obj_Human_Player.power_bar_max){
 image_blend = c_red
+sprite_index
 }else{ image_blend = -1}
 depth=-555555
