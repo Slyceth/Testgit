@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Flame_normal",
-  "bbox_bottom": 41,
+  "bbox_bottom": 64,
   "bbox_left": 5,
   "bbox_right": 28,
   "bbox_top": 4,
