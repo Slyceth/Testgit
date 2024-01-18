@@ -1,4 +1,22 @@
 {
-  "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Animation Curves","order":4,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":5,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":7,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":8,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":9,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":10,"path":"folders/Scripts.yy",},
+    {"name":"Shaders","order":11,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":12,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":13,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":14,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":15,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Human_Player_falling","order":3,"path":"sprites/Human_Player_falling/Human_Player_falling.yy",},
+    {"name":"Human_Player_walk","order":2,"path":"sprites/Human_Player_walk/Human_Player_walk.yy",},
+    {"name":"Human_Player_run","order":1,"path":"sprites/Human_Player_run/Human_Player_run.yy",},
+    {"name":"menu_levelselect","order":16,"path":"rooms/menu_levelselect/menu_levelselect.yy",},
+  ],
 }
