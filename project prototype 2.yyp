@@ -91,15 +91,11 @@
     {"id":{"name":"spr_play_pressed","path":"sprites/spr_play_pressed/spr_play_pressed.yy",},},
     {"id":{"name":"spr_Human_walk","path":"sprites/spr_Human_walk/spr_Human_walk.yy",},},
     {"id":{"name":"spr_button_unpressed","path":"sprites/spr_button_unpressed/spr_button_unpressed.yy",},},
-
     {"id":{"name":"Object49","path":"objects/Object49/Object49.yy",},},
     {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},},
-    {"id":{"name":"obj_play_button","path":"objects/obj_play_button/obj_play_button.yy",},},
-
     {"id":{"name":"obj_spear_spawner","path":"objects/obj_spear_spawner/obj_spear_spawner.yy",},},
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},},
     {"id":{"name":"Ghost_scream","path":"sounds/Ghost_scream/Ghost_scream.yy",},},
-    {"id":{"name":"Sprite67","path":"sprites/Sprite67/Sprite67.yy",},},
     {"id":{"name":"GM_Electricity_spr_Electricity1","path":"sprites/GM_Electricity_spr_Electricity1/GM_Electricity_spr_Electricity1.yy",},},
     {"id":{"name":"spr_continue_locked","path":"sprites/spr_continue_locked/spr_continue_locked.yy",},},
     {"id":{"name":"Room_collin_debug","path":"rooms/Room_collin_debug/Room_collin_debug.yy",},},
@@ -162,7 +158,6 @@
     {"id":{"name":"spr_Keyboard_wasd","path":"sprites/spr_Keyboard_wasd/spr_Keyboard_wasd.yy",},},
     {"id":{"name":"Obj_scare_hitbox","path":"objects/Obj_scare_hitbox/Obj_scare_hitbox.yy",},},
     {"id":{"name":"obj_wall_test","path":"objects/obj_wall_test/obj_wall_test.yy",},},
-    {"id":{"name":"Sprite67","path":"sprites/Sprite67/Sprite67.yy",},},
     {"id":{"name":"obj_door_open","path":"objects/obj_door_open/obj_door_open.yy",},},
     {"id":{"name":"Players_collision_box_sprite","path":"sprites/Players_collision_box_sprite/Players_collision_box_sprite.yy",},},
     {"id":{"name":"spr_ui_button_unpressed","path":"sprites/spr_ui_button_unpressed/spr_ui_button_unpressed.yy",},},
