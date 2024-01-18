@@ -2,9 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_button_select",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -32,5 +30,5 @@
     "path": "sprites/spr_select_box/spr_select_box.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

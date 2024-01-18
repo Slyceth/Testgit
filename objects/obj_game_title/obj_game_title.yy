@@ -1,18 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_menu_button_continue",
-  "eventList": [],
+  "name": "obj_game_title",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Options",
     "path": "folders/Objects/UI stuff/Options.yy",
   },
-  "parentObjectId": {
-    "name": "obj_button_parent",
-    "path": "objects/obj_button_parent/obj_button_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
