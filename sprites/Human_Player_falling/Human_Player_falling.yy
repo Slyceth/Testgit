@@ -30,8 +30,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Unused",
-    "path": "folders/Sprites/Player/Unused.yy",
+    "name": "project prototype 2",
+    "path": "project prototype 2.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {

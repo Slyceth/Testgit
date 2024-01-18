@@ -7,7 +7,6 @@
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
- 
     {"name":"inst_menu_button_level1","path":"rooms/menu_levelselect/menu_levelselect.yy",},
     {"name":"inst_menu_button_level2","path":"rooms/menu_levelselect/menu_levelselect.yy",},
     {"name":"inst_menu_button_level3","path":"rooms/menu_levelselect/menu_levelselect.yy",},
@@ -17,7 +16,6 @@
     {"name":"inst_menu_button_level6","path":"rooms/menu_levelselect/menu_levelselect.yy",},
     {"name":"inst_86B3F94","path":"rooms/menu_levelselect/menu_levelselect.yy",},
     {"name":"inst_19956B64","path":"rooms/menu_levelselect/menu_levelselect.yy",},
-
   ],
   "isDnd": false,
   "layers": [
@@ -33,7 +31,7 @@
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":224.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_menu_button_level3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_menu_button_play","path":"objects/obj_menu_button_play/obj_menu_button_play.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_menu_button_play","path":"objects/obj_menu_button_play/obj_menu_button_play.yy",},"propertyId":{"name":"menu_button_text","path":"objects/obj_menu_button_play/obj_menu_button_play.yy",},"value":"Level 3",},
-{"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_menu_button_play","path":"objects/obj_menu_button_play/obj_menu_button_play.yy",},"propertyId":{"name":"menu_target_room","path":"objects/obj_menu_button_play/obj_menu_button_play.yy",},"value":"Room_sly_2",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_menu_button_play","path":"objects/obj_menu_button_play/obj_menu_button_play.yy",},"propertyId":{"name":"menu_target_room","path":"objects/obj_menu_button_play/obj_menu_button_play.yy",},"value":"Room_sly_2",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_menu_button_play","path":"objects/obj_menu_button_play/obj_menu_button_play.yy",},"propertyId":{"name":"button_locked_value","path":"objects/obj_menu_button_play/obj_menu_button_play.yy",},"value":"True",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":288.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_24915BE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_menu_button_play","path":"objects/obj_menu_button_play/obj_menu_button_play.yy",},"properties":[
@@ -60,7 +58,6 @@
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":480.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_86B3F94","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_game_title","path":"objects/obj_game_title/obj_game_title.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_19956B64","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_button_select","path":"objects/obj_button_select/obj_button_select.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":96.0,},
-
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
