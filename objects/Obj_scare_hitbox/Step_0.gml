@@ -44,7 +44,7 @@ switch (box_direc) {
 
 //sets the ghost state to the hitbox state
 if (place_meeting(x,y,Obj_scare_ghost)){
-box_direc=Obj_scare_ghost.direction
+box_direc=Obj_scare_ghost.turn_direction
 
 }
 

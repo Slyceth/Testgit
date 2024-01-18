@@ -2,9 +2,11 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Sprite67",
+
   "bbox_bottom": 31,
   "bbox_left": 0,
   "bbox_right": 31,
+
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,6 +15,7 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
+
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c21a3472-ca6e-452b-a3c5-0b06b5f1e5b2",},
   ],
   "gridX": 0,
@@ -21,6 +24,7 @@
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5b939cf6-eca0-4553-955a-efc9ac160ce7","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+
   ],
   "nineSlice": {
     "resourceType": "GMNineSliceData",
@@ -48,10 +52,13 @@
   },
   "origin": 0,
   "parent": {
+
     "name": "world (tiles + collisions",
     "path": "folders/Sprites/world (tiles + collisions.yy",
   },
   "preMultiplyAlpha": true,
+
+
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
@@ -77,7 +84,9 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
+
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c21a3472-ca6e-452b-a3c5-0b06b5f1e5b2","path":"sprites/Sprite67/Sprite67.yy",},},},"Disabled":false,"id":"29aade03-4739-4105-8697-ca18a5d948d9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -93,5 +102,5 @@
   },
   "type": 0,
   "VTile": false,
+
   "width": 32,
-}

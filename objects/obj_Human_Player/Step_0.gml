@@ -6,13 +6,16 @@ if (Player_state !=99){
 #region //PLayer animations
 //Idle animation
 if (Player_state = 0){
-	sprite_index = Human_Player};
+	//sprite_index = Human_Player
+	sprite_index = spr_Human_idle};
 //walking animation
 if (Player_state = 1){
-	sprite_index = Human_Player_walk};
+	//sprite_index = Human_Player_walk};
+	sprite_index = spr_Human_walk};
 	//running animation
 	if (Player_state = 2){
-	sprite_index = Human_Player_run};
+	//sprite_index = Human_Player_run
+	sprite_index = spr_Human_walk_run};
 	
 #endregion
 #region //unused crap
@@ -149,9 +152,9 @@ switch (player_runninng_direc) {
 	
 //}
 //Running animation when running dire > 0 and running animation is not playing
-if (player_runninng_direc != 0 && sprite_index != Human_Player_run){
+if (player_runninng_direc != 0 && sprite_index != spr_Human_walk_run){
 	
-		image_index = Human_Player_run	
+		sprite_index = spr_Human_walk_run
 }
 //attempt to fix animation
 if (player_runninng_direc >0){

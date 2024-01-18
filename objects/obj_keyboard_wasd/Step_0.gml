@@ -46,11 +46,11 @@ if (sprite_visible == 3 && transparent >=1)
 
 //checks button to make invisible
 if (keyboard_check(vk_anykey)){	
-if (sprite_visible = 0){ sprite_visible =2}	
+if (sprite_visible = 0){ sprite_visible =2 }	
 }
 else{
 //wait until fade
-if (sprite_visible = 2){ alarm[0] = 300
+if (sprite_visible = 2){ //alarm[0] = 300
 	sprite_visible = -2
 	}
 
