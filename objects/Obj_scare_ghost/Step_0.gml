@@ -35,7 +35,7 @@ hibox =1
 //2=left
 //3=up
 //4 = right)
-switch (direction) {
+switch (turn_direction) {
     case 1:
         image_xscale =2
         break;
