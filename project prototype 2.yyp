@@ -165,10 +165,8 @@
     {"id":{"name":"spr_ghost_enemy_collision","path":"sprites/spr_ghost_enemy_collision/spr_ghost_enemy_collision.yy",},},
     {"id":{"name":"Human_grid_hitbox","path":"sprites/Human_grid_hitbox/Human_grid_hitbox.yy",},},
     {"id":{"name":"obj_Ghost_Player","path":"objects/obj_Ghost_Player/obj_Ghost_Player.yy",},},
-
     {"id":{"name":"spr_anti_ghost_zone79","path":"sprites/spr_anti_ghost_zone79/spr_anti_ghost_zone79.yy",},},
     {"id":{"name":"spr_antighostzonedecogone","path":"sprites/spr_antighostzonedecogone/spr_antighostzonedecogone.yy",},},
-
     {"id":{"name":"obj_button_pushed","path":"objects/obj_button_pushed/obj_button_pushed.yy",},},
     {"id":{"name":"spr_Keyboard_wasd","path":"sprites/spr_Keyboard_wasd/spr_Keyboard_wasd.yy",},},
     {"id":{"name":"Obj_scare_hitbox","path":"objects/Obj_scare_hitbox/Obj_scare_hitbox.yy",},},
@@ -243,13 +241,10 @@
     {"roomId":{"name":"menu_levelselect","path":"rooms/menu_levelselect/menu_levelselect.yy",},},
     {"roomId":{"name":"Room_sly_2","path":"rooms/Room_sly_2/Room_sly_2.yy",},},
     {"roomId":{"name":"room_level_2","path":"rooms/room_level_2/room_level_2.yy",},},
-
     {"roomId":{"name":"Room_bug_report","path":"rooms/Room_bug_report/Room_bug_report.yy",},},
     {"roomId":{"name":"Room_intro_level","path":"rooms/Room_intro_level/Room_intro_level.yy",},},
-
     {"roomId":{"name":"Room_sly_3","path":"rooms/Room_sly_3/Room_sly_3.yy",},},
     {"roomId":{"name":"Room_level_3","path":"rooms/Room_level_3/Room_level_3.yy",},},
-
   ],
   "templateType": "game",
   "TextureGroups": [

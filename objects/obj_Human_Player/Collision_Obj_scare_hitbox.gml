@@ -2,11 +2,11 @@
 Player_state =2
 Player_move_timer =1
 //Will set the run direction when colliding with the ghost hitbox
-if(Player_state =2)
+if(Player_state ==2)
 
 //tests and sets direction to other
 {
-switch (Obj_scare_hitbox.box_direc) {
+switch (other.box_direc) {
     case 1:
         player_runninng_direc =1
 		speed =0
