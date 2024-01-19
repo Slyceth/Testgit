@@ -62,6 +62,11 @@
     {"name":"spr_human_goto_arrow","order":3,"path":"sprites/spr_human_goto_arrow/spr_human_goto_arrow.yy",},
     {"name":"Ghost_grid_hitbox","order":2,"path":"sprites/Ghost_grid_hitbox/Ghost_grid_hitbox.yy",},
     {"name":"Ghost_playe_walk","order":4,"path":"sprites/Ghost_playe_walk/Ghost_playe_walk.yy",},
+    {"name":"obj_torch_normal","order":3,"path":"objects/obj_torch_normal/obj_torch_normal.yy",},
+    {"name":"spr_antighostzonedecogone","order":10,"path":"sprites/spr_antighostzonedecogone/spr_antighostzonedecogone.yy",},
+    {"name":"Room_sly_3","order":1,"path":"rooms/Room_sly_3/Room_sly_3.yy",},
+    {"name":"obj_anti_ghostzone","order":1,"path":"objects/obj_anti_ghostzone/obj_anti_ghostzone.yy",},
+    {"name":"Cubo_the_great","order":2,"path":"sprites/Cubo_the_great/Cubo_the_great.yy",},
     {"name":"Human_Player_run","order":1,"path":"sprites/Human_Player_run/Human_Player_run.yy",},
 
     {"name":"spr_Values_visual","order":1,"path":"sprites/spr_Values_visual/spr_Values_visual.yy",},
