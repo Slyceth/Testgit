@@ -16,6 +16,7 @@
   "ResourceOrderSettings": [
     {"name":"Flame_normal","order":8,"path":"sprites/Flame_normal/Flame_normal.yy",},
     {"name":"Human_Player_falling","order":3,"path":"sprites/Human_Player_falling/Human_Player_falling.yy",},
+    {"name":"obj_button54","order":1,"path":"objects/obj_button54/obj_button54.yy",},
     {"name":"spr_main_tileset","order":7,"path":"sprites/spr_main_tileset/spr_main_tileset.yy",},
     {"name":"Cubor_the_evil","order":6,"path":"sprites/Cubor_the_evil/Cubor_the_evil.yy",},
     {"name":"spr_antighostzonedeco","order":9,"path":"sprites/spr_antighostzonedeco/spr_antighostzonedeco.yy",},
@@ -24,6 +25,7 @@
     {"name":"spr_floor_lod","order":4,"path":"sprites/spr_floor_lod/spr_floor_lod.yy",},
     {"name":"spr_level_end","order":3,"path":"sprites/spr_level_end/spr_level_end.yy",},
     {"name":"Human_Player_walk","order":2,"path":"sprites/Human_Player_walk/Human_Player_walk.yy",},
+    {"name":"spr_anti_ghost_zone79","order":1,"path":"sprites/spr_anti_ghost_zone79/spr_anti_ghost_zone79.yy",},
     {"name":"spr_antighostzonedecogone","order":10,"path":"sprites/spr_antighostzonedecogone/spr_antighostzonedecogone.yy",},
     {"name":"Room_sly_3","order":1,"path":"rooms/Room_sly_3/Room_sly_3.yy",},
     {"name":"Cubo_the_great","order":2,"path":"sprites/Cubo_the_great/Cubo_the_great.yy",},
