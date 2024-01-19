@@ -43,9 +43,11 @@ switch (box_direc) {
 #endregion
 
 //sets the ghost state to the hitbox state
-if (place_meeting(x,y,Obj_scare_ghost)){
-box_direc=Obj_scare_ghost.turn_direction
-
+var _is_colliding = instance_place(x,y,Obj_scare_ghost);
+//show_debug_message(_is_colliding);
+if (instance_exists(_is_colliding)){
+box_direc = _is_colliding.turn_direction
+//show_debug_message(is_colliding.turn_direction)
 }
 
 //animations stuff
