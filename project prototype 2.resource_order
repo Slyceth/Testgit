@@ -28,6 +28,7 @@
     {"name":"Room_sly_3","order":1,"path":"rooms/Room_sly_3/Room_sly_3.yy",},
     {"name":"Cubo_the_great","order":2,"path":"sprites/Cubo_the_great/Cubo_the_great.yy",},
     {"name":"Human_Player_run","order":1,"path":"sprites/Human_Player_run/Human_Player_run.yy",},
+    {"name":"Room_level_3","order":2,"path":"rooms/Room_level_3/Room_level_3.yy",},
     {"name":"spr_tilesheet_dungeon","order":1,"path":"sprites/spr_tilesheet_dungeon/spr_tilesheet_dungeon.yy",},
     {"name":"menu_levelselect","order":16,"path":"rooms/menu_levelselect/menu_levelselect.yy",},
     {"name":"obj_antighostdecogone","order":2,"path":"objects/obj_antighostdecogone/obj_antighostdecogone.yy",},
