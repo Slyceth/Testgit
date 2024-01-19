@@ -141,6 +141,7 @@
     {"id":{"name":"obj_keyboard_wasd","path":"objects/obj_keyboard_wasd/obj_keyboard_wasd.yy",},},
     {"id":{"name":"spr_button_pressed","path":"sprites/spr_button_pressed/spr_button_pressed.yy",},},
     {"id":{"name":"Sprite54","path":"sprites/Sprite54/Sprite54.yy",},},
+    {"id":{"name":"Particle_test","path":"particles/Particle_test/Particle_test.yy",},},
     {"id":{"name":"spr_floor_lod","path":"sprites/spr_floor_lod/spr_floor_lod.yy",},},
     {"id":{"name":"spr_powerbar","path":"sprites/spr_powerbar/spr_powerbar.yy",},},
     {"id":{"name":"spr_falling_block_normal","path":"sprites/spr_falling_block_normal/spr_falling_block_normal.yy",},},
@@ -178,6 +179,7 @@
     {"id":{"name":"Debug_draw_big","path":"fonts/Debug_draw_big/Debug_draw_big.yy",},},
     {"id":{"name":"Button_select","path":"sounds/Button_select/Button_select.yy",},},
     {"id":{"name":"obj_anti_ghost_source","path":"objects/obj_anti_ghost_source/obj_anti_ghost_source.yy",},},
+    {"id":{"name":"Room_intro_level","path":"rooms/Room_intro_level/Room_intro_level.yy",},},
     {"id":{"name":"obj_transition_control","path":"objects/obj_transition_control/obj_transition_control.yy",},},
     {"id":{"name":"obj_level_end","path":"objects/obj_level_end/obj_level_end.yy",},},
     {"id":{"name":"spr_human_goto_arrow","path":"sprites/spr_human_goto_arrow/spr_human_goto_arrow.yy",},},
@@ -234,6 +236,7 @@
     {"roomId":{"name":"Room_sly_2","path":"rooms/Room_sly_2/Room_sly_2.yy",},},
     {"roomId":{"name":"room_level_2","path":"rooms/room_level_2/room_level_2.yy",},},
     {"roomId":{"name":"Room_bug_report","path":"rooms/Room_bug_report/Room_bug_report.yy",},},
+    {"roomId":{"name":"Room_intro_level","path":"rooms/Room_intro_level/Room_intro_level.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
