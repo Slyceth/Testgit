@@ -88,6 +88,7 @@
     {"id":{"name":"obj_door_opener","path":"objects/obj_door_opener/obj_door_opener.yy",},},
     {"id":{"name":"Sprite66","path":"sprites/Sprite66/Sprite66.yy",},},
     {"id":{"name":"Room_test_background","path":"sprites/Room_test_background/Room_test_background.yy",},},
+    {"id":{"name":"obj_button_nodeco","path":"objects/obj_button_nodeco/obj_button_nodeco.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"obj_menu_lock","path":"objects/obj_menu_lock/obj_menu_lock.yy",},},
     {"id":{"name":"spr_play_pressed","path":"sprites/spr_play_pressed/spr_play_pressed.yy",},},

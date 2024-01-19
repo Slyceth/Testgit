@@ -8,10 +8,7 @@ if (button_press == true) {
 	instance_destroy(inst_33BA0AC);
 	instance_destroy(inst_7B3FA5A3);
 	instance_destroy(inst_33BA0AC_2)
-	obj_antighostdeco.image_alpha = 0
-	obj_antighostdeco.speed =0
-	instance_create_layer(obj_antighostdeco.x,obj_antighostdeco.y,"Players",obj_antighostdecogone)
-
+	
 	
 	if (!place_meeting(x,y,obj_Human_Player))
 	{
