@@ -92,6 +92,7 @@
     {"id":{"name":"obj_menu_lock","path":"objects/obj_menu_lock/obj_menu_lock.yy",},},
     {"id":{"name":"spr_play_pressed","path":"sprites/spr_play_pressed/spr_play_pressed.yy",},},
     {"id":{"name":"spr_Human_walk","path":"sprites/spr_Human_walk/spr_Human_walk.yy",},},
+    {"id":{"name":"obj_button54","path":"objects/obj_button54/obj_button54.yy",},},
     {"id":{"name":"spr_button_unpressed","path":"sprites/spr_button_unpressed/spr_button_unpressed.yy",},},
     {"id":{"name":"Object49","path":"objects/Object49/Object49.yy",},},
     {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},},
@@ -158,15 +159,21 @@
     {"id":{"name":"spr_sparkle","path":"sprites/spr_sparkle/spr_sparkle.yy",},},
     {"id":{"name":"obj_falling_block","path":"objects/obj_falling_block/obj_falling_block.yy",},},
     {"id":{"name":"Endless_dungeib_beta_2","path":"sounds/Endless_dungeib_beta_2/Endless_dungeib_beta_2.yy",},},
+    {"id":{"name":"obj_torch_normal","path":"objects/obj_torch_normal/obj_torch_normal.yy",},},
     {"id":{"name":"spr_play_locked","path":"sprites/spr_play_locked/spr_play_locked.yy",},},
     {"id":{"name":"spr_ghost_enemy_scare","path":"sprites/spr_ghost_enemy_scare/spr_ghost_enemy_scare.yy",},},
     {"id":{"name":"spr_ghost_enemy_collision","path":"sprites/spr_ghost_enemy_collision/spr_ghost_enemy_collision.yy",},},
     {"id":{"name":"Human_grid_hitbox","path":"sprites/Human_grid_hitbox/Human_grid_hitbox.yy",},},
     {"id":{"name":"obj_Ghost_Player","path":"objects/obj_Ghost_Player/obj_Ghost_Player.yy",},},
+
+    {"id":{"name":"spr_anti_ghost_zone79","path":"sprites/spr_anti_ghost_zone79/spr_anti_ghost_zone79.yy",},},
+    {"id":{"name":"spr_antighostzonedecogone","path":"sprites/spr_antighostzonedecogone/spr_antighostzonedecogone.yy",},},
+
     {"id":{"name":"obj_button_pushed","path":"objects/obj_button_pushed/obj_button_pushed.yy",},},
     {"id":{"name":"spr_Keyboard_wasd","path":"sprites/spr_Keyboard_wasd/spr_Keyboard_wasd.yy",},},
     {"id":{"name":"Obj_scare_hitbox","path":"objects/Obj_scare_hitbox/Obj_scare_hitbox.yy",},},
     {"id":{"name":"obj_wall_test","path":"objects/obj_wall_test/obj_wall_test.yy",},},
+    {"id":{"name":"obj_anti_ghostzone","path":"objects/obj_anti_ghostzone/obj_anti_ghostzone.yy",},},
     {"id":{"name":"obj_door_open","path":"objects/obj_door_open/obj_door_open.yy",},},
     {"id":{"name":"Players_collision_box_sprite","path":"sprites/Players_collision_box_sprite/Players_collision_box_sprite.yy",},},
     {"id":{"name":"spr_ui_button_unpressed","path":"sprites/spr_ui_button_unpressed/spr_ui_button_unpressed.yy",},},
@@ -208,6 +215,7 @@
     {"id":{"name":"obj_situa_collision","path":"objects/obj_situa_collision/obj_situa_collision.yy",},},
     {"id":{"name":"collision_interactables","path":"objects/collision_interactables/collision_interactables.yy",},},
     {"id":{"name":"obj_spear","path":"objects/obj_spear/obj_spear.yy",},},
+    {"id":{"name":"Room_level_3","path":"rooms/Room_level_3/Room_level_3.yy",},},
     {"id":{"name":"spr_right","path":"sprites/spr_right/spr_right.yy",},},
     {"id":{"name":"spr_tilesheet_dungeon","path":"sprites/spr_tilesheet_dungeon/spr_tilesheet_dungeon.yy",},},
     {"id":{"name":"water","path":"sprites/water/water.yy",},},
@@ -235,8 +243,13 @@
     {"roomId":{"name":"menu_levelselect","path":"rooms/menu_levelselect/menu_levelselect.yy",},},
     {"roomId":{"name":"Room_sly_2","path":"rooms/Room_sly_2/Room_sly_2.yy",},},
     {"roomId":{"name":"room_level_2","path":"rooms/room_level_2/room_level_2.yy",},},
+
     {"roomId":{"name":"Room_bug_report","path":"rooms/Room_bug_report/Room_bug_report.yy",},},
     {"roomId":{"name":"Room_intro_level","path":"rooms/Room_intro_level/Room_intro_level.yy",},},
+
+    {"roomId":{"name":"Room_sly_3","path":"rooms/Room_sly_3/Room_sly_3.yy",},},
+    {"roomId":{"name":"Room_level_3","path":"rooms/Room_level_3/Room_level_3.yy",},},
+
   ],
   "templateType": "game",
   "TextureGroups": [
