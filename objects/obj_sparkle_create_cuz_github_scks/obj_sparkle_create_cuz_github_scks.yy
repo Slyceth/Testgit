@@ -1,10 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_le_bug",
+  "name": "obj_sparkle_create_cuz_github_scks",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -29,9 +30,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_le_bug",
-    "path": "sprites/spr_le_bug/spr_le_bug.yy",
+    "name": "spr_fk_github",
+    "path": "sprites/spr_fk_github/spr_fk_github.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

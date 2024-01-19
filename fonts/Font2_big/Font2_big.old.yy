@@ -1,7 +1,7 @@
 {
   "resourceType": "GMFont",
   "resourceVersion": "1.0",
-  "name": "Font2",
+  "name": "Font2_big",
   "AntiAlias": 1,
   "applyKerning": 0,
   "ascender": 28,
