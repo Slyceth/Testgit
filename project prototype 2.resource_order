@@ -63,11 +63,15 @@
     {"name":"Ghost_grid_hitbox","order":2,"path":"sprites/Ghost_grid_hitbox/Ghost_grid_hitbox.yy",},
     {"name":"Ghost_playe_walk","order":4,"path":"sprites/Ghost_playe_walk/Ghost_playe_walk.yy",},
     {"name":"Human_Player_run","order":1,"path":"sprites/Human_Player_run/Human_Player_run.yy",},
+
     {"name":"spr_Values_visual","order":1,"path":"sprites/spr_Values_visual/spr_Values_visual.yy",},
     {"name":"room_level_2","order":1,"path":"rooms/room_level_2/room_level_2.yy",},
     {"name":"Room_sly_2","order":2,"path":"rooms/Room_sly_2/Room_sly_2.yy",},
     {"name":"obj_stole_stuff","order":5,"path":"objects/obj_stole_stuff/obj_stole_stuff.yy",},
     {"name":"Room_bug_report","order":9,"path":"rooms/Room_bug_report/Room_bug_report.yy",},
+
+    {"name":"Room_level_3","order":2,"path":"rooms/Room_level_3/Room_level_3.yy",},
+    {"name":"spr_tilesheet_dungeon","order":1,"path":"sprites/spr_tilesheet_dungeon/spr_tilesheet_dungeon.yy",},
     {"name":"menu_levelselect","order":16,"path":"rooms/menu_levelselect/menu_levelselect.yy",},
   ],
 }

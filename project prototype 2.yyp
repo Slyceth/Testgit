@@ -208,6 +208,7 @@
     {"id":{"name":"obj_situa_collision","path":"objects/obj_situa_collision/obj_situa_collision.yy",},},
     {"id":{"name":"collision_interactables","path":"objects/collision_interactables/collision_interactables.yy",},},
     {"id":{"name":"obj_spear","path":"objects/obj_spear/obj_spear.yy",},},
+    {"id":{"name":"Room_level_3","path":"rooms/Room_level_3/Room_level_3.yy",},},
     {"id":{"name":"spr_right","path":"sprites/spr_right/spr_right.yy",},},
     {"id":{"name":"spr_tilesheet_dungeon","path":"sprites/spr_tilesheet_dungeon/spr_tilesheet_dungeon.yy",},},
     {"id":{"name":"water","path":"sprites/water/water.yy",},},
@@ -235,8 +236,13 @@
     {"roomId":{"name":"menu_levelselect","path":"rooms/menu_levelselect/menu_levelselect.yy",},},
     {"roomId":{"name":"Room_sly_2","path":"rooms/Room_sly_2/Room_sly_2.yy",},},
     {"roomId":{"name":"room_level_2","path":"rooms/room_level_2/room_level_2.yy",},},
+
     {"roomId":{"name":"Room_bug_report","path":"rooms/Room_bug_report/Room_bug_report.yy",},},
     {"roomId":{"name":"Room_intro_level","path":"rooms/Room_intro_level/Room_intro_level.yy",},},
+
+    {"roomId":{"name":"Room_sly_3","path":"rooms/Room_sly_3/Room_sly_3.yy",},},
+    {"roomId":{"name":"Room_level_3","path":"rooms/Room_level_3/Room_level_3.yy",},},
+
   ],
   "templateType": "game",
   "TextureGroups": [
