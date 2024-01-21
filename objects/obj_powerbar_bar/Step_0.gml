@@ -8,7 +8,7 @@ x =obj_Ghost_Player.x+35
 y =obj_Ghost_Player.y-65
 //visible
 if (obj_Human_Player.Human_ghost_coll>=1
-){image_alpha =1}else {{image_alpha =10}}
+){image_alpha =1}else {{image_alpha =0}}
 
 //max or not
 if(obj_Human_Player.power_bar ==obj_Human_Player.power_bar_max){

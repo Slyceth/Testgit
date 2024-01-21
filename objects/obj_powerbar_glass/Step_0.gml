@@ -6,5 +6,5 @@ depth = -5555555
 
 //visible
 if (obj_Human_Player.Human_ghost_coll>=1
-){image_alpha =1}else {{image_alpha =10}}
+){image_alpha =1}else {{image_alpha =0}}
 

@@ -12,3 +12,6 @@
 //draw_set_font(Debug_draw)
 //draw_set_color( c_red)
 //}
+draw_text(x-12,y-65,Visual_stuff.random_generator)
+draw_set_font(Debug_draw)
+draw_set_color( c_red)

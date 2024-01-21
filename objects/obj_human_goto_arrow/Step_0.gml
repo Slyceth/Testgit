@@ -19,7 +19,8 @@ image_xscale =1.7
 image_yscale = 1.7
 sprite_index = spr_human_goto_dot
 }
+depth = -5555555555
 
-//debug
+/*debug
 if (keyboard_check(ord("1"))){type =1}
 if (keyboard_check(ord("0"))){type =0}
