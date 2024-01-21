@@ -119,8 +119,8 @@
   "lineHeight": 116,
   "maintainGms1Font": false,
   "parent": {
-    "name": "Fonts",
-    "path": "folders/Fonts.yy",
+    "name": "Options",
+    "path": "folders/Objects/UI stuff/Options.yy",
   },
   "pointRounding": 0,
   "ranges": [

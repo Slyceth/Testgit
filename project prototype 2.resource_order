@@ -1,4 +1,5 @@
 {
+
   "FolderOrderSettings": [
     {"name":"Animation Curves","order":4,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":5,"path":"folders/Extensions.yy",},
@@ -31,12 +32,15 @@
     {"name":"Human_Player_falling","order":3,"path":"sprites/Human_Player_falling/Human_Player_falling.yy",},
     {"name":"draw_stuff","order":1,"path":"sprites/draw_stuff/draw_stuff.yy",},
     {"name":"Sprite66","order":8,"path":"sprites/Sprite66/Sprite66.yy",},
+
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Options_screen","order":1,"path":"rooms/Options_screen/Options_screen.yy",},
+    {"name":"Sprite66","order":2,"path":"sprites/Sprite66/Sprite66.yy",},
+
     {"name":"Room_test_background","order":3,"path":"sprites/Room_test_background/Room_test_background.yy",},
-    {"name":"spr_Human_walk","order":7,"path":"sprites/spr_Human_walk/spr_Human_walk.yy",},
-    {"name":"obj_button54","order":1,"path":"objects/obj_button54/obj_button54.yy",},
-    {"name":"spr_left","order":6,"path":"sprites/spr_left/spr_left.yy",},
-    {"name":"Font2_big","order":4,"path":"fonts/Font2_big/Font2_big.yy",},
     {"name":"Room_collin_debug","order":4,"path":"rooms/Room_collin_debug/Room_collin_debug.yy",},
+
     {"name":"spr_main_tileset","order":7,"path":"sprites/spr_main_tileset/spr_main_tileset.yy",},
     {"name":"Font2","order":2,"path":"fonts/Font2/Font2.yy",},
     {"name":"spr_Human_idle","order":5,"path":"sprites/spr_Human_idle/spr_Human_idle.yy",},
@@ -88,5 +92,14 @@
     {"name":"tutorial_2","order":2,"path":"objects/tutorial_2/tutorial_2.yy",},
     {"name":"Room_bug_report","order":9,"path":"rooms/Room_bug_report/Room_bug_report.yy",},
     {"name":"menu_levelselect","order":16,"path":"rooms/menu_levelselect/menu_levelselect.yy",},
+
+    {"name":"menu_main","order":6,"path":"rooms/menu_main/menu_main.yy",},
+    {"name":"room_level_2","order":7,"path":"rooms/room_level_2/room_level_2.yy",},
+    {"name":"Room_sly_2","order":8,"path":"rooms/Room_sly_2/Room_sly_2.yy",},
+    {"name":"Room_sly_4","order":11,"path":"rooms/Room_sly_4/Room_sly_4.yy",},
+    {"name":"lever","order":1,"path":"sounds/lever/lever.yy",},
+    {"name":"menu_levelselect","order":10,"path":"rooms/menu_levelselect/menu_levelselect.yy",},
+    {"name":"Room_debug_test1","order":9,"path":"rooms/Room_debug_test1/Room_debug_test1.yy",},
+
   ],
 }
