@@ -5,6 +5,7 @@
     {"name":"Sprite66","order":2,"path":"sprites/Sprite66/Sprite66.yy",},
     {"name":"Room_test_background","order":3,"path":"sprites/Room_test_background/Room_test_background.yy",},
     {"name":"Room_collin_debug","order":4,"path":"rooms/Room_collin_debug/Room_collin_debug.yy",},
+    {"name":"obj_button_noDeco","order":1,"path":"objects/obj_button_noDeco/obj_button_noDeco.yy",},
     {"name":"menu_main","order":6,"path":"rooms/menu_main/menu_main.yy",},
     {"name":"room_level_2","order":7,"path":"rooms/room_level_2/room_level_2.yy",},
     {"name":"Room_sly_2","order":8,"path":"rooms/Room_sly_2/Room_sly_2.yy",},
