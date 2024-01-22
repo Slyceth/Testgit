@@ -4,6 +4,7 @@
 
 if (button_press == true) {
     sprite_index = spr_button_pressed
+	audio_play_sound(button3,1,false);
 	instance_destroy(inst_33BA0AC_1)
 	instance_destroy(inst_33BA0AC_2 )
 	obj_antighostdeco.image_alpha = 0

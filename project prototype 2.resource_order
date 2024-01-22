@@ -19,10 +19,16 @@
     {"name":"room_level_2","order":7,"path":"rooms/room_level_2/room_level_2.yy",},
     {"name":"Room_sly_2","order":8,"path":"rooms/Room_sly_2/Room_sly_2.yy",},
     {"name":"Room_sly_4","order":11,"path":"rooms/Room_sly_4/Room_sly_4.yy",},
+
     {"name":"draw_stuff","order":1,"path":"sprites/draw_stuff/draw_stuff.yy",},
     {"name":"lever","order":1,"path":"sounds/lever/lever.yy",},
     {"name":"menu_levelselect","order":10,"path":"rooms/menu_levelselect/menu_levelselect.yy",},
     {"name":"Room_bug_report","order":12,"path":"rooms/Room_bug_report/Room_bug_report.yy",},
+
+    {"name":"Button_select","order":1,"path":"sounds/Button_select/Button_select.yy",},
+
+    {"name":"button3","order":2,"path":"sounds/button3/button3.yy",},
+
     {"name":"Room_debug_test1","order":9,"path":"rooms/Room_debug_test1/Room_debug_test1.yy",},
   ],
 }

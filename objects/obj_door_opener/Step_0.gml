@@ -5,6 +5,7 @@ var target_y = instance_nearest(x, y, obj_door_closed).y
 
 
 if (place_meeting(x,y,obj_Human_Player)){
+	audio_play_sound(button3,1,false);
 	new_obj = instance_create_layer(target_x,target_y, "Instances",obj_door_open)
 	Nearest_door = instance_nearest(x, y, obj_door_open)
 	instance_nearest(x, y, obj_door_closed).x = 1
