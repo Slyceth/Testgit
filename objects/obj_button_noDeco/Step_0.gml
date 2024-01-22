@@ -3,6 +3,7 @@
 
 
 if (button_press == true) {
+	audio_play_sound(button3,1,false);
     sprite_index = spr_button_pressed
 	instance_destroy(inst_33BA0AC_1)
 	instance_destroy(inst_33BA0AC_2_1)

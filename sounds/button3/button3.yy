@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "lever",
+  "name": "button3",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 0.441179,
+  "duration": 1.075306,
   "parent": {
     "name": "Sfx",
     "path": "folders/Sounds/Sfx.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "lever.wav",
+  "soundFile": "button3.wav",
   "type": 0,
   "volume": 1.0,
 }
