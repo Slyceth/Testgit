@@ -1,1 +1,0 @@
-obj_room_trans_fade.active=5

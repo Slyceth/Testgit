@@ -181,7 +181,7 @@ else{
 if(Human_ghost_coll ==2){if(keyboard_check(ord("E"))&& power_bar<power_bar_max && Can_add == false){
 //adds to powerbar
 power_bar += 1
-audio_play_sound(Button_select,1,false)
+//audio_play_sound(Button_select,1,false)
 alarm[2]=5
 Can_add =true
 
