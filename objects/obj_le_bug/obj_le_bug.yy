@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Bug report",
-    "path": "folders/Objects/UI stuff/Bug report.yy",
+    "name": "debug",
+    "path": "folders/Objects/UI stuff/debug.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "I don't care anymore",
-    "path": "folders/I don't care anymore.yy",
+    "name": "debug",
+    "path": "folders/Objects/UI stuff/debug.yy",
   },
   "parentObjectId": null,
   "persistent": false,
